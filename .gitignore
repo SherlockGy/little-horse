@@ -1,0 +1,13 @@
+# Python 环境与缓存
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# 密钥（只提交 .env.example）
+.env
+.env.*
+!.env.example
+
+# 渲染中间产物与成片（成片通过 GitHub Release 发布，不进仓库）
+out/

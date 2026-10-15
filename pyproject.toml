@@ -1,0 +1,17 @@
+[project]
+name = "little-horse-crosses-the-river"
+version = "1.0.0"
+description = "纸艺毛毡木偶剧风格的《小马过河》儿童动画：AI 生成素材 + 程序化动画渲染 + 程序化配乐"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "skia-python>=144.0.post2",
+    "numpy>=2.5.4",
+    "pillow>=12.3.0",
+    "scipy>=1.18.1",
+    "tinysoundfont>=0.3.7",
+]
+
+[tool.uv]
+# 这是脚本集合，不作为 Python 包安装
+package = false

@@ -1,0 +1,170 @@
+{
+ "pony_blink": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 0.0
+ },
+ "pony_walka": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": -35.0,
+  "dy": 5.0
+ },
+ "pony_walkb": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": -74.0,
+  "dy": 1.0
+ },
+ "pony_gallop": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": -126.0,
+  "dy": 0.0
+ },
+ "pony_worry": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 185.0
+ },
+ "pony_ask": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": -20.0
+ },
+ "pony_scared": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": -39.0,
+  "dy": -23.0
+ },
+ "pony_sad": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 50.0,
+  "dy": 125.0
+ },
+ "pony_think": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 1.0
+ },
+ "pony_nod": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 101.0
+ },
+ "pony_step": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 7.0
+ },
+ "pony_cheer": {
+  "base": "pony_sack",
+  "s": 1.0,
+  "dx": -19.0,
+  "dy": -25.0
+ },
+ "pony_nblink": {
+  "base": "pony_stand",
+  "s": 1.0,
+  "dx": -1.0,
+  "dy": 0.0
+ },
+ "pony_nwalka": {
+  "base": "pony_stand",
+  "s": 1.0,
+  "dx": -64.0,
+  "dy": 0.0
+ },
+ "pony_nwalkb": {
+  "base": "pony_stand",
+  "s": 1.0,
+  "dx": -69.0,
+  "dy": 1.0
+ },
+ "pony_ncheer": {
+  "base": "pony_stand",
+  "s": 1.0,
+  "dx": -10.0,
+  "dy": -14.0
+ },
+ "pony_nnod": {
+  "base": "pony_stand",
+  "s": 1.0008,
+  "dx": 0.2,
+  "dy": 130.2
+ },
+ "mom_blink": {
+  "base": "mom_stand",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": -1.0
+ },
+ "mom_talk": {
+  "base": "mom_stand",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 20.0
+ },
+ "mom_nuzzle": {
+  "base": "mom_stand",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 254.0
+ },
+ "ox_blink": {
+  "base": "ox_stand",
+  "s": 1.0,
+  "dx": 1.0,
+  "dy": 0.0
+ },
+ "ox_talk": {
+  "base": "ox_stand",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 0.0
+ },
+ "ox_laugh": {
+  "base": "ox_stand",
+  "s": 1.0,
+  "dx": 1.0,
+  "dy": -3.0
+ },
+ "ox_chew": {
+  "base": "ox_stand",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 0.0
+ },
+ "squirrel_blink": {
+  "base": "squirrel_stand",
+  "s": 0.9992,
+  "dx": -0.1,
+  "dy": 0.5
+ },
+ "squirrel_warn2": {
+  "base": "squirrel_warn",
+  "s": 1.0,
+  "dx": -1.0,
+  "dy": 0.0
+ },
+ "squirrel_sad": {
+  "base": "squirrel_stand",
+  "s": 0.9992,
+  "dx": 3.9,
+  "dy": 213.3
+ },
+ "squirrel_wave": {
+  "base": "squirrel_stand",
+  "s": 1.0,
+  "dx": 0.0,
+  "dy": 0.0
+ }
+}
